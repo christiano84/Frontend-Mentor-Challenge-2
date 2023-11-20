@@ -8,10 +8,10 @@
 
 body {
   background-color: hsl(233, 47%, 7%);
-  display: grid;
-  height: 100vh;
-  place-items: center;
   font-family: Inter;
+  display: grid;
+  place-items: center;
+  height: 100vh;
 }
 
 .grid-main {
@@ -81,11 +81,22 @@ body {
   display: none;
 }
 
+.attribution { 
+  font-size: 11px; 
+  text-align: center; 
+  color: #fff;
+  margin-top: 50px;
+}
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
+
 /* ---- Media queries ---- */
 
 @media (max-width: 1200px) {
   body {
     margin: 80px 7%;
+    height: initial;
   }
 
   .grid-main {
