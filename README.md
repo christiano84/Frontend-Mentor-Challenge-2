@@ -1,3 +1,7 @@
+VIEW THE LIVE SITE HERE
+
+https://christiano84.github.io/Frontend-Mentor-Challenge-2/
+
 # Frontend Mentor - Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
