@@ -1,4 +1,6 @@
-VIEW THE LIVE SITE HERE
+This was a test of HTML and CSS knowledge and your ability to recreate a design in code without tools like Figma.
+
+You can view the live site below as well as the 'challenge' specification below it to compare the two.
 
 https://christiano84.github.io/Frontend-Mentor-Challenge-2/
 
