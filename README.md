@@ -1,4 +1,4 @@
-This was a test of HTML and CSS knowledge and your ability to recreate a design in code without tools like Figma.
+This was a test of HTML and CSS knowledge as well as a test of your ability to recreate a design in code without using tools like Figma.
 
 You can view the live site below as well as the 'challenge' specification below it to compare the two.
 
